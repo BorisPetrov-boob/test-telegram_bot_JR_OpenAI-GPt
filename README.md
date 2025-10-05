@@ -1,1 +1,0 @@
-# test-telegram_bot_JR_OpenAI-GPt
